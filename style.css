@@ -10,8 +10,9 @@
 
 
 body {
-    font-family: serif;
+    font-family: sans-serif;
     border: solid 1px black;
+    background-color: rgb(242, 242, 242);
     width: 400px;
     margin: auto;
 }
@@ -19,18 +20,28 @@ body {
 
 .header {
     border-bottom: solid 1px black;
+    background-color: rgb(42, 60, 109);
+    color: aliceblue;
+    text-align: center;
     padding: 10px;
 }
 
 
 .quadrato {
-    border: solid 1px black;
+    border: solid 1px rgb(158, 158, 158);
+    background-color: aliceblue;
     margin: 25px;
     padding: 15px;
 }
 
+img {
+    width: 40px;
+}
 
 .footer {
     border-top: solid 1px black;
+    background-color: rgb(42, 60, 109);
+    color: aliceblue;
+    text-align: center;
     padding: 10px;
 }
