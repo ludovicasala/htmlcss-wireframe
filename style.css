@@ -7,3 +7,11 @@
 }
 
 /* FINE CSS RESET */
+
+
+body {
+    font-family: serif;
+    border: solid 1px black;
+    width: 400px;
+    margin: auto;
+}
